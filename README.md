@@ -92,7 +92,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=TanvirAhmedChowdhury&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
-text
+
 Python   3 hrs 58 mins    █████████████████████████   100.00 %
 
 
