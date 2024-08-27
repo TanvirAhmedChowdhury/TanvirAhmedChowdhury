@@ -1,7 +1,7 @@
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Tanvir+ahmed+chowdhury..;+Student+Programmer+Cyber+Security+analyst;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-    
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=450&height=40&lines=Hello+%F0%9F%91%8B;+I'm+Tanvir+Ahmed+Chowdhury...;+Aspiring+Cyber+Security+Expert;+Passionate+About+Open-Source;+Learning+Every+Day...;+Empowering+The+Tech+Community;+Let's+Grow+Together!;">
+</p>
+
 
     
                                         # 🖥️ Technical Skills:
