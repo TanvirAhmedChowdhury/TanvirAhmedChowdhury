@@ -102,4 +102,21 @@ Python   3 hrs 58 mins    ██████████████████
 
 
 ### Contact me:
-<a href="https://github.com/TanvirAhmedChowdhury" target="_blank"><img src="https://img.shields.io/badge/Github-Tanvirahmedchy-green?style=for-the-badge&logo=github"></a> <a href="https://www.facebook.com/profile.php?id=100092482631567&mibextid=kFxxJD" target="_blank"><img src="https://img.shields.io/badge/FaceBook-Tanvirahmedchy-purple?style=for-the-badge&logo=facebook"></a> <a href="https://t.me/your_telegram_username" target="_blank"><img src="https://img.shields.io/badge/Telegram-Tanvirahmedchy-red?style=for-the-badge&logo=telegram"></a> <a href="mailto:tanvirahmedchowdhury700@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-tanvirahmedchowdhury700@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/TanvirAhmedChowdhury" target="_blank">
+  <img src="https://img.shields.io/badge/Github-Tanvirahmedchy-green?style=for-the-badge&logo=github">
+</a>
+<br>
+
+<a href="https://www.facebook.com/profile.php?id=100092482631567&mibextid=kFxxJD" target="_blank">
+  <img src="https://img.shields.io/badge/FaceBook-Tanvirahmedchy-purple?style=for-the-badge&logo=facebook">
+</a>
+<br>
+
+<a href="https://t.me/your_telegram_username" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-Tanvirahmedchy-red?style=for-the-badge&logo=telegram">
+</a>
+<br>
+
+<a href="mailto:tanvirahmedchowdhury700@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-tanvirahmedchowdhury700@gmail.com-teal?style=for-the-badge&logo=gmail">
+</a>
