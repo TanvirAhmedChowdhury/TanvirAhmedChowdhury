@@ -2,68 +2,74 @@
 
 
     
-           <!-- 🖥️ Technical Skills -->
+     <!-- 🖥️ Technical Skills -->
 <h2 align="center">🖥️ Technical Skills</h2>
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
   
   <!-- Web Development -->
-  <h3 align="left" style="color: #ff4500;">Web Development</h3>
-  <p align="left">
+  <h3 align="center" style="color: #ff4500;">Web Development</h3>
+  <p align="center">
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 10px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 10px;" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 10px;" />
     </a>
   </p>
 
   <!-- Programming Languages -->
-  <h3 align="left" style="color: #1e90ff;">Programming Languages</h3>
-  <p align="left">
+  <h3 align="center" style="color: #1e90ff;">Programming Languages</h3>
+  <p align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 10px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 10px;" />
+    </a>
+    <a href="https://www.flaticon.com/free-icon/letter-c_10050572" target="_blank" rel="noreferrer">
+      <img src="https://cdn-icons-png.flaticon.com/512/10050/10050572.png" alt="c" width="40" height="40" style="margin: 10px;" />
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 10px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin: 10px;" />
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 10px;" />
     </a>
   </p>
 
   <!-- Tools -->
-  <h3 align="left" style="color: #32cd32;">Tools</h3>
-  <p align="left">
+  <h3 align="center" style="color: #32cd32;">Tools</h3>
+  <p align="center">
     <a href="https://www.github.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" style="margin-right: 10px;" />
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" style="margin: 10px;" />
     </a>
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40" style="margin-right: 10px;" />
+      <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40" style="margin: 10px;" />
     </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40" style="margin-right: 10px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40" style="margin: 10px;" />
+    </a>
+    <a href="https://www.svgrepo.com/show/354243/qt.svg" target="_blank" rel="noreferrer">
+      <img src="https://www.svgrepo.com/show/354243/qt.svg" alt="qt5" width="40" height="40" style="margin: 10px;" />
     </a>
   </p>
 
   <!-- Operating Systems -->
-  <h3 align="left" style="color: #ff6347;">Operating Systems</h3>
-  <p align="left">
+  <h3 align="center" style="color: #ff6347;">Operating Systems</h3>
+  <p align="center">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin: 10px;" />
     </a>
     <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" style="margin-right: 10px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" style="margin: 10px;" />
     </a>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="developerandroid" width="40" height="40" style="margin-right: 10px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="developerandroid" width="40" height="40" style="margin: 10px;" />
     </a>
   </p>
 
   <!-- Electronics -->
-  <h3 align="left" style="color: #ffa500;">Electronics</h3>
-  <p align="left">
+  <h3 align="center" style="color: #ffa500;">Electronics</h3>
+  <p align="center">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="margin-right: 10px;" />
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="margin: 10px;" />
     </a>
   </p>
   
