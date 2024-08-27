@@ -2,12 +2,12 @@
 
 
     
-     <!-- 🖥️ Technical Skills -->
+<!-- 🖥️ Technical Skills -->
 <h2 align="center">🖥️ Technical Skills</h2>
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
-  
+
   <!-- Web Development -->
-  <h3 align="center" style="color: #ff4500;">Web Development</h3>
+  <h3 align="center" style="color: #ff4500; transition: color 0.5s ease;">Web Development</h3>
   <p align="center">
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 10px;" />
@@ -18,7 +18,7 @@
   </p>
 
   <!-- Programming Languages -->
-  <h3 align="center" style="color: #1e90ff;">Programming Languages</h3>
+  <h3 align="center" style="color: #1e90ff; transition: color 0.5s ease;">Programming Languages</h3>
   <p align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 10px;" />
@@ -35,7 +35,7 @@
   </p>
 
   <!-- Tools -->
-  <h3 align="center" style="color: #32cd32;">Tools</h3>
+  <h3 align="center" style="color: #32cd32; transition: color 0.5s ease;">Tools</h3>
   <p align="center">
     <a href="https://www.github.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" style="margin: 10px;" />
@@ -52,7 +52,7 @@
   </p>
 
   <!-- Operating Systems -->
-  <h3 align="center" style="color: #ff6347;">Operating Systems</h3>
+  <h3 align="center" style="color: #ff6347; transition: color 0.5s ease;">Operating Systems</h3>
   <p align="center">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin: 10px;" />
@@ -66,7 +66,7 @@
   </p>
 
   <!-- Electronics -->
-  <h3 align="center" style="color: #ffa500;">Electronics</h3>
+  <h3 align="center" style="color: #ffa500; transition: color 0.5s ease;">Electronics</h3>
   <p align="center">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="margin: 10px;" />
@@ -76,6 +76,12 @@
 </div>
 
 <style>
+  h3:hover {
+    color: #ffd700;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    transition: color 0.5s ease, text-shadow 0.5s ease;
+  }
+
   a:hover img {
     transform: scale(1.1);
     transition: transform 0.3s ease;
