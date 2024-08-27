@@ -1,5 +1,5 @@
-<p align="center" style="background-color: #E22FE4; padding: 10px; border-radius: 5px;">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=380&height=28&lines=Hi👋+I'm+Tanvir+ahmed+chowdhury..;I'm+a+Student;Programmer+....;Cyber+Security+Researcher+....;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true" alt="Typing SVG">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Tanvir+ahmed+chowdhury..;I'm+a+Student;Programmer+....;Cyber+Security+Researcher+....;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true" alt="Typing SVG">
 </p>
 
 
