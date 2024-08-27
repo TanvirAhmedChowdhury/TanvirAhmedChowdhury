@@ -103,9 +103,9 @@ Python   3 hrs 58 mins    ██████████████████
 
 ### Contact me:
 
-<a href="[https://github.com/KasRoudra](https://github.com/TanvirAhmedChowdhury)" target="_blank"><img src="https://img.shields.io/badge/Github-Tanvirahmedchy-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/TanvirAhmedChowdhury" target="_blank"><img src="https://img.shields.io/badge/Github-Tanvirahmedchy-green?style=for-the-badge&logo=github"></a>
 
-<a href="[https://facebook.com/KasRoudra](https://www.facebook.com/profile.php?id=100092482631567&mibextid=kFxxJD)" target="_blank"><img src="https://img.shields.io/badge/FaceBook-Tanvirahmedchy-purple?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.facebook.com/profile.php?id=100092482631567&mibextid=kFxxJD" target="_blank"><img src="https://img.shields.io/badge/FaceBook-Tanvirahmedchy-purple?style=for-the-badge&logo=facebook"></a>
 
 <a href="https://t.me/......." target="_blank"><img src="https://img.shields.io/badge/Telegram-Tanvirahmedchy-red?style=for-the-badge&logo=telegram"></a>
 
