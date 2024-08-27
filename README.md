@@ -1,7 +1,5 @@
 <p align="center"> <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> --> <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Tanvir+ahmed+chowdhury..;I'm+a+Student;Programmer+....;Cyber+Security+Researcher+....;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
 
-
-    
 <!-- 🖥️ Technical Skills -->
 <h2 align="center">🖥️ Technical Skills</h2>
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
@@ -70,6 +68,9 @@
   <p align="center">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="margin: 10px;" />
+    </a>
+    <a href="https://micropython.org/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Micropython-logo.svg/589px-Micropython-logo.svg.png" alt="micropython" width="40" height="40" style="margin: 10px;" />
     </a>
   </p>
   
