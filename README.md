@@ -63,7 +63,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
       </a>
       <a href="https://upload.wikimedia.org/wikipedia/commons/b/b5/Termux.svg" target="_blank" rel="noreferrer">
-        <img src="https://fdroid.com" alt="windows" width="40" height="40" />
+        <img src="https://google.com" alt="windows" width="40" height="40" />
       </a>
       <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" />
