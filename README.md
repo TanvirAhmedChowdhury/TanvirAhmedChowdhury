@@ -40,7 +40,7 @@
         <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" />
       </a>
       <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40" />
+        <img src="[https://www.vectorlogo.zone/logos/canva/canva-icon.svg](https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png)" alt="canva" width="40" height="40" />
       </a>
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40" />
@@ -105,12 +105,12 @@ Python   3 hrs 58 mins    ██████████████████
 </a>
 <br>
 
-<a href="https://www.facebook.com/profile.php?id=100092482631567&mibextid=kFxxJD" target="_blank">
+<a href="https://www.facebook.com/........" target="_blank">
   <img src="https://img.shields.io/badge/FaceBook-Tanvirahmedchy-purple?style=for-the-badge&logo=facebook">
 </a>
 <br>
 
-<a href="https://t.me/your_telegram_username" target="_blank">
+<a href="https://t.me/" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-Tanvirahmedchy-red?style=for-the-badge&logo=telegram">
 </a>
 <br>
