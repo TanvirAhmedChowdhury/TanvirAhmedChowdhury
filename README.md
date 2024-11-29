@@ -25,6 +25,9 @@
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
       </a>
+        <a href="https://www.kotlin.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/kotlin_icon_130893.png" alt="Kotlin" width="40" height="40" />
+      </a>
       <a href="https://www.flaticon.com/free-icon/letter-c_10050572" target="_blank" rel="noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/10050/10050572.png" alt="c" width="40" height="40" />
       </a>
