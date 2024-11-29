@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Tanvir+ahmed+chowdhury..;I'm+a+Programmer+....;Cyber+Security+Researcher+....;Open-Red+Teamer..;Low+Level+Learner..;Empowering+Others;Nice+To+Meet+You+....&center=true" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Tanvir+ahmed+chowdhury..;I'm+a+Programmer+....;Cyber+Security+Researcher+....;Red+Teamer..;Low+Level+Learner..;I-Love+Malwares😁;Nice+To+Meet+You+....&center=true" alt="Typing SVG">
 </p>
 
 
