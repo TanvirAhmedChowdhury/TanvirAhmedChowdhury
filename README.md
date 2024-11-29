@@ -28,6 +28,10 @@
         <a href="https://www.kotlin.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/kotlin_icon_130893.png" alt="Kotlin" width="40" height="40" />
       </a>
+       </a>
+        <a href="https://www.kotlin.com" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/?size=100&id=55205&format=png" alt="C Sharp" width="40" height="40" />
+      </a>
       <a href="https://www.flaticon.com/free-icon/letter-c_10050572" target="_blank" rel="noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/10050/10050572.png" alt="c" width="40" height="40" />
       </a>
@@ -49,13 +53,13 @@
         <img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="canva" width="40" height="40" />
       </a>
       <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" alt="canva" width="40" height="40" />
+        <img src="https://logotyp.us/file/vs-code.svg" alt="VS" width="40" height="40" />
       </a>
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40" />
       </a>
       <a href="https://www.svgrepo.com/show/354243/qt.svg" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/354243/qt.svg" alt="qt5" width="40" height="40" />
+        <img src="https://icon.icepanel.io/Technology/svg/Android-Studio.svg" alt="Andrroid Studio" width="40" height="40" />
       </a>
     </td>
   </tr>
