@@ -46,12 +46,6 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.github.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" />
-      </a>
-      <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="canva" width="40" height="40" />
-      </a>
       <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
         <img src="https://logotyp.us/file/vs-code.svg" alt="VS" width="40" height="40" />
       </a>
