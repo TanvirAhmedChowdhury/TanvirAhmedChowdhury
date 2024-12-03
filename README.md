@@ -100,7 +100,7 @@
 <!--START_SECTION:waka-->
 
 
-C/asm   3 hrs 58 mins    █████████████████████████   100.00 %
+C/Assmembly   3 hrs 58 mins    █████████████████████████   100.00 %
 
 
 
