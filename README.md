@@ -96,12 +96,9 @@
 <br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TanvirAhmedChowdhury&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 <!--START_SECTION:waka-->
-
-
-C/Assmembly   3 hrs 58 mins    █████████████████████████   100.00 %
-
 
 
 
