@@ -97,7 +97,8 @@
 
 ## 🏆 GitHub Trophies
 ## Dev Quote
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=In%20the%20world%20of%20software%2C%20the%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=In%20the%20world%20of%20software%2C%20the%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Tanvir%20Ahmed%20(Chy))](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!--START_SECTION:waka-->
 
 
