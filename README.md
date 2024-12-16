@@ -101,7 +101,7 @@
 > You need to add **?quote=In the world of software, the best way to predict the future is to invent it** parameter.
 > URL encode your quote.
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=My%20Quote)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=In the world of software, the best way to predict the future is to invent it)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--START_SECTION:waka-->
 
 
