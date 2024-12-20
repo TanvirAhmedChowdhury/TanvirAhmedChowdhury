@@ -115,7 +115,7 @@
 </a>
 <br>
 
-<a href="https://t.me/" target="_blank">
+<a href="https://t.me/Taxor_E" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-Tanvirahmedchy-red?style=for-the-badge&logo=telegram">
 </a>
 <br>
