@@ -9,6 +9,8 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="180px" />
 </p>
 
+---
+
 <h2 align="center">⚙️ Skills & Tools</h2>
 
 <p align="center">
@@ -20,22 +22,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" />
 </p>
 
 ---
 
 <h2 align="center">🔍 Offensive Security</h2>
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/48/hacker.png" title="Red Teaming" width="40"/>
-  <img src="https://img.icons8.com/color/48/ida.png" title="IDA" width="40"/>
-  <img src="https://img.icons8.com/ios/50/ghidra.png" title="Ghidra" width="40"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-malware-computer-science-flaticons-lineal-color-flat-icons.png" title="Malware Analysis" width="40"/>
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-binary-coding-flat-icons-inmotus-design.png" title="Binary Exploits" width="40"/>
-  <img src="https://img.icons8.com/ios/50/wifi--v1.png" title="Network Recon" width="40"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Binary Exploits</b></td>
+    <td align="center"><b>Ghidra</b></td>
+    <td align="center"><b>Malware Analysis</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://media.istockphoto.com/id/531657323/photo/computer-exploit.jpg?s=612x612&w=0&k=20&c=4dA1rickab81yJ_PF2JCr2xbIiJ80ZuyM25cBjY-XOo=" width="150px"/>
+    </td>
+    <td align="center">
+      <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Installing-Ghidra-in-Linux.jpg" width="150px"/>
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhaGSjyvFUJRWnHVv-QXr9Nvmw7CSGBDtCypWcGMowuFrJLI0N4jvC8uYjP3geFKnjgFI&usqp=CAU" width="150px"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -61,7 +71,7 @@
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
   <a href="https://github.com/TanvirAhmedChowdhury">
@@ -77,4 +87,4 @@
 
 ---
 
-<h3 align="center">👣 Always Reverse. Always Build. Always Hack. 🧠</h3>
+<h3 align="center">👣 Embedded Systems x Binary Exploits x Red Team Ops 👣</h3>
