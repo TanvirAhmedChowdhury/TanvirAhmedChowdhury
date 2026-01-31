@@ -11,15 +11,31 @@
 
 ---
 
-<h2 align="center">⚙️ Skills & Tools</h2>
+<h2 align="center">⚙️ Languages</h2>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png" title="C" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" />
+   <img src="https://img.icons8.com/color/1200/assembly.jpg" title="Python" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" />
 </p>
 
 ---
+
+---
+
+<h2 align="center">⚙️Frameworks</h2>
+
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdvWbk-D7Xm4VWnMfmP8EXvhVwwlprHfJ7ew&s" title="Qt" width="40" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuuAuY5_m27GLPk8PntGMhBm8OHfPj26ZuRw&s" title="FreeRTOS" width="40" />
+
+</p>
+
+---
+
+
+
 
 <h2 align="center">🔍 Offensive Security</h2>
 
